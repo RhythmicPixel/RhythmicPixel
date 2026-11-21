@@ -10,18 +10,18 @@ I'm an **Environmental Science Postgraduate (Jamia Millia Islamia)** with a stro
 
 ---
 
-### 🌍 Geospatial & Technical Stack
+### 🌍 Geospatial & Technical Skill
 
 **GIS, Remote Sensing & Cloud Platforms**
-![QGIS]
-![ArcGIS Pro]
-![ESA SNAP]
-![Google Earth Engine]
+- QGIS
+- ArcGIS Pro
+- ESA SNAP
+- Google Earth Engine
 
 **Programming & Data Analysis**
-![Python]
-![R]
-![JavaScript]
+- Python
+- Javascript
+- R
 
 ---
 
