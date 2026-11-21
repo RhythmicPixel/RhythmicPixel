@@ -1,6 +1,6 @@
 # Hi there, I'm Ym Kayum Shah 👋
 
-I'm an **Environmental Science Postgraduate (M.Sc., Jamia Millia Islamia — 8.69 CGPA)** with a strong research focus on **Glaciology, Cryosphere Dynamics, Climate Science, Remote Sensing, and GIS**. 
+I'm an **Environmental Science Postgraduate (Jamia Millia Islamia)** with a strong research focus on **Glaciology, Cryosphere Dynamics, Climate Science, Remote Sensing, and GIS**. 
 
 - 🎓 **Education:** M.Sc. in Environmental Science, Jamia Millia Islamia (CGPA: 8.69)
 - 🏔️ **Research Interests:** Glaciology, Cryosphere, Climate Science, Remote Sensing & GIS
