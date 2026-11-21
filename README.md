@@ -13,15 +13,15 @@ I'm an **Environmental Science Postgraduate (Jamia Millia Islamia)** with a stro
 ### 🌍 Geospatial & Technical Stack
 
 **GIS, Remote Sensing & Cloud Platforms**
-![QGIS](https://shields.io)
-![ArcGIS Pro](https://shields.io)
-![ESA SNAP](https://shields.io)
-![Google Earth Engine](https://shields.io)
+![QGIS]
+![ArcGIS Pro]
+![ESA SNAP]
+![Google Earth Engine]
 
 **Programming & Data Analysis**
-![Python](https://shields.io)
-![R](https://shields.io)
-![JavaScript](https://shields.io)
+![Python]
+![R]
+![JavaScript]
 
 ---
 
@@ -31,9 +31,3 @@ I'm an **Environmental Science Postgraduate (Jamia Millia Islamia)** with a stro
 
 ---
 
-### 📊 GitHub Stats & Profile Views
-
-![Profile Views](https://komarev.com)
-
-![GitHub Stats](https://vercel.app)
-![Top Languages](https://vercel.app)
